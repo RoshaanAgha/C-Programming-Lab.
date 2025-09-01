@@ -1,2 +1,4 @@
 # C-Programming-Lab.
-Lab Task 1
+
+**This repository is created for the lab task**
+> If you can change your mind, you can change your life.
